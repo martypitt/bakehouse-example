@@ -11,7 +11,7 @@
 		</bakehouse:resources>
 		
 		<bakehouse:resources configuration="less" type="text/css">
-			<bakehouse:resource src="stylesheet.less"/>
+			<bakehouse:resource src="less/bootstrap-main.less"/>
 		</bakehouse:resources>
 		<bakehouse:resources configuration="typescript" type="text/javascript">
 			<bakehouse:resource src="typescript.ts"/>
